@@ -1,9 +1,10 @@
-# Spring Certified Professional
+# Spring Certified Professional (2V0-72.22)
 
 - [Spring Certified Professional](https://spring.academy/paths/spring-certified-professional-2023)
 - [Spring Certified Professional Exam Guide](https://docs.broadcom.com/doc/vmw-spring-professional-develop-exam-guide)
+- [Spring Certified Professional Exam](https://www.broadcom.com/support/education/vmware/certification/spring-pro-develop-exam)
 
-### Table of Content
+### Exam Sections
 
 1. [Spring Core](1.%20Spring%20Core/1.%20Spring%20Core.md)
 2. [Data Management](2.%20Data%20Management/2.%20Data%20Management.md)
