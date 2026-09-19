@@ -5,6 +5,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+url: https://squidxtv.me
 baseurl: /spring-certified-professional
 include:
   - README.md
