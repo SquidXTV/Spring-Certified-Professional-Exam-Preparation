@@ -5,13 +5,11 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-url: https://squidxtv.me
-baseurl: /spring-certified-professional
 include:
   - README.md
-  - "1. Spring Core"
-  - "2. Data Management"
-  - "3. Spring MVC"
-  - "4. Testing"
-  - "5. Security"
-  - "6. Spring Boot"
+  - "1. Spring Core/**"
+  - "2. Data Management/**"
+  - "3. Spring MVC/**"
+  - "4. Testing/**"
+  - "5. Security/**"
+  - "6. Spring Boot/**"
