@@ -1,3 +1,8 @@
+---
+title: Spring Certified Professional Exam Preparation
+layout: default
+---
+
 # Spring Certified Professional (2V0-72.22)
 
 - [Spring Certified Professional](https://spring.academy/paths/spring-certified-professional-2023)
