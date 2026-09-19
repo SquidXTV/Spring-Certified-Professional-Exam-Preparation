@@ -1,8 +1,12 @@
 title: Spring Certified Professional Exam Preparation
 theme: jekyll-theme-primer
+
+domain: squidxtv.me
+url: https://squidxtv.me
+baseurl: "/Spring-Certified-Professional-Exam-Preparation"
+
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-baseurl: "/spring-certified-professional"
