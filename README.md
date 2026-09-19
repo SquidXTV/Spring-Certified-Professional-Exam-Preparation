@@ -6,7 +6,7 @@
 
 ### Exam Sections
 
-1. [Spring Core](1.%20Spring%20Core/1.%20Spring%20Core.md)
+1. [Spring Core](<1. Spring Core/1. Spring Core.md>)
 2. [Data Management](2.%20Data%20Management/2.%20Data%20Management.md)
 3. [Spring MVC](3.%20Spring%20MVC/3.%20Spring%20MVC.md)
 4. [Testing](4.%20Testing/4.%20Testing.md)
