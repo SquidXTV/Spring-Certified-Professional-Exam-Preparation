@@ -5,8 +5,13 @@ domain: squidxtv.me
 url: https://squidxtv.me
 baseurl: "/Spring-Certified-Professional-Exam-Preparation"
 
-plugins:
-  - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
